@@ -1,0 +1,335 @@
+Shop No  | Customer Name        | Product      | Qty | Price      | Total      | Payment Mode | Status  | Order Date         
+--------------------------------------------------------------------------------------------------------------
+4        | Rahul Chauhan        | Tea          | 3   | ₹10.00    | ₹30.00    | Cash         | Paid   | 2025-07-24 00:00:00
+2        | Vihaan Agrawal       | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Online       | Paid   | 2025-11-13 00:00:00
+5        | Vikas Yadav          | Cold Drink   | 4   | ₹30.00    | ₹120.00   | Online       | Paid   | 2025-08-19 00:00:00
+4        | Akash Shinde         | Burger       | 5   | ₹60.00    | ₹300.00   | Online       | Paid   | 2025-09-24 00:00:00
+4        | Vivaan Shetty        | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Online       | Paid   | 2025-08-02 00:00:00
+3        | Aarav Yadav          | Pizza        | 2   | ₹120.00   | ₹240.00   | Card         | Paid   | 2025-07-05 00:00:00
+4        | Akash Pawar          | Coffee       | 3   | ₹20.00    | ₹60.00    | Cash         | Paid   | 2025-10-08 00:00:00
+5        | Sanket Chauhan       | Tea          | 2   | ₹10.00    | ₹20.00    | Cash         | Paid   | 2025-07-24 00:00:00
+4        | Kabir Singh          | Pizza        | 3   | ₹120.00   | ₹360.00   | Card         | Paid   | 2025-11-09 00:00:00
+5        | Rahul Shaikh         | Pizza        | 2   | ₹120.00   | ₹240.00   | Online       | Paid   | 2025-11-16 00:00:00
+1        | Pranav Gowda         | Coffee       | 2   | ₹20.00    | ₹40.00    | Cash         | Paid   | 2025-10-10 00:00:00
+1        | Aarav Yadav          | Pizza        | 3   | ₹120.00   | ₹360.00   | Card         | Paid   | 2025-12-06 00:00:00
+3        | Atharva Malik        | Coffee       | 2   | ₹20.00    | ₹40.00    | Cash         | Paid   | 2025-12-06 00:00:00
+2        | Swapnil Dixit        | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Online       | Paid   | 2025-10-04 00:00:00
+5        | Rohit Joshi          | Coffee       | 5   | ₹20.00    | ₹100.00   | Card         | Paid   | 2025-07-05 00:00:00
+5        | Deepak Jadhav        | Sandwich     | 5   | ₹60.00    | ₹300.00   | Cash         | Paid   | 2025-11-02 00:00:00
+1        | Aarav Pillai         | Tea          | 5   | ₹10.00    | ₹50.00    | Card         | Paid   | 2025-11-01 00:00:00
+3        | Raj Thakur           | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Cash         | Paid   | 2025-09-21 00:00:00
+2        | Tejas Pillai         | Tea          | 2   | ₹10.00    | ₹20.00    | Online       | Paid   | 2025-08-23 00:00:00
+3        | Abhay Malik          | Coffee       | 1   | ₹20.00    | ₹20.00    | Online       | Paid   | 2025-11-12 00:00:00
+2        | Swapnil Khan         | Coffee       | 4   | ₹20.00    | ₹80.00    | Online       | Paid   | 2025-08-05 00:00:00
+4        | Kartik Joshi         | Sandwich     | 4   | ₹60.00    | ₹240.00   | Card         | Paid   | 2025-12-03 00:00:00
+4        | Ankit Pandey         | Sandwich     | 3   | ₹60.00    | ₹180.00   | Cash         | Paid   | 2025-12-06 00:00:00
+4        | Akash More           | Tea          | 4   | ₹10.00    | ₹40.00    | Online       | Paid   | 2025-08-10 00:00:00
+4        | Sahil Mishra         | Sandwich     | 2   | ₹60.00    | ₹120.00   | Cash         | Paid   | 2025-09-29 00:00:00
+3        | Abhay Naidu          | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Cash         | Paid   | 2025-11-12 00:00:00
+5        | Siddharth Shetty     | Sandwich     | 1   | ₹60.00    | ₹60.00    | Online       | Paid   | 2025-08-23 00:00:00
+2        | Arjun Iyer           | Sandwich     | 3   | ₹60.00    | ₹180.00   | Card         | Paid   | 2025-08-03 00:00:00
+2        | Ritesh Pathan        | Pizza        | 5   | ₹120.00   | ₹600.00   | Cash         | Paid   | 2025-07-19 00:00:00
+1        | Om Gore              | Sandwich     | 2   | ₹60.00    | ₹120.00   | Cash         | Paid   | 2025-11-07 00:00:00
+5        | Pranav Pathan        | Pizza        | 4   | ₹120.00   | ₹480.00   | Cash         | Paid   | 2025-11-21 00:00:00
+5        | Sarthak Rathore      | Cold Drink   | 4   | ₹30.00    | ₹120.00   | Card         | Paid   | 2025-08-03 00:00:00
+3        | Shubham Kale         | Pizza        | 3   | ₹120.00   | ₹360.00   | Cash         | Paid   | 2025-09-01 00:00:00
+4        | Vishal Hussain       | Coffee       | 5   | ₹20.00    | ₹100.00   | Card         | Paid   | 2025-07-08 00:00:00
+5        | Abhay Gupta          | Pizza        | 4   | ₹120.00   | ₹480.00   | Cash         | Paid   | 2025-10-24 00:00:00
+5        | Kartik More          | Burger       | 2   | ₹60.00    | ₹120.00   | Cash         | Paid   | 2025-08-03 00:00:00
+5        | Atharva Deshmukh     | Tea          | 3   | ₹10.00    | ₹30.00    | Online       | Paid   | 2025-09-30 00:00:00
+3        | Vihaan Qureshi       | Tea          | 1   | ₹10.00    | ₹10.00    | Card         | Paid   | 2025-09-15 00:00:00
+1        | Krishna Pandey       | Sandwich     | 2   | ₹60.00    | ₹120.00   | Cash         | Paid   | 2025-12-05 00:00:00
+2        | Rahul Iyer           | Burger       | 5   | ₹60.00    | ₹300.00   | Cash         | Paid   | 2025-07-19 00:00:00
+1        | Pranav Pandey        | Burger       | 4   | ₹60.00    | ₹240.00   | Card         | Paid   | 2025-10-02 00:00:00
+2        | Aditya Patil         | Sandwich     | 2   | ₹60.00    | ₹120.00   | Online       | Paid   | 2025-08-14 00:00:00
+2        | Shaurya Naik         | Coffee       | 1   | ₹20.00    | ₹20.00    | Cash         | Paid   | 2025-11-06 00:00:00
+5        | Vishal Gupta         | Burger       | 2   | ₹60.00    | ₹120.00   | Online       | Paid   | 2025-08-26 00:00:00
+2        | Atharva Naik         | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Card         | Paid   | 2025-11-23 00:00:00
+1        | Vihaan Naidu         | Burger       | 2   | ₹60.00    | ₹120.00   | Online       | Paid   | 2025-11-21 00:00:00
+4        | Ankit Chauhan        | Burger       | 1   | ₹60.00    | ₹60.00    | Card         | Paid   | 2025-10-18 00:00:00
+4        | Pranav Pillai        | Pizza        | 5   | ₹120.00   | ₹600.00   | Card         | Paid   | 2025-08-13 00:00:00
+5        | Aman Deshmukh        | Burger       | 5   | ₹60.00    | ₹300.00   | Online       | Paid   | 2025-08-15 00:00:00
+3        | Aditya Rathore       | Pizza        | 1   | ₹120.00   | ₹120.00   | Online       | Paid   | 2025-08-19 00:00:00
+3        | Swapnil Iyer         | Coffee       | 4   | ₹20.00    | ₹80.00    | Online       | Paid   | 2025-09-13 00:00:00
+1        | Pranav Tiwari        | Pizza        | 2   | ₹120.00   | ₹240.00   | Online       | Paid   | 2025-07-18 00:00:00
+4        | Manav Tripathi       | Burger       | 4   | ₹60.00    | ₹240.00   | Cash         | Paid   | 2025-08-12 00:00:00
+5        | Pranav Kale          | Coffee       | 1   | ₹20.00    | ₹20.00    | Online       | Paid   | 2025-08-25 00:00:00
+2        | Deepak Patel         | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Cash         | Paid   | 2025-08-25 00:00:00
+1        | Aditya Patil         | Sandwich     | 3   | ₹60.00    | ₹180.00   | Cash         | Paid   | 2025-08-02 00:00:00
+4        | Vikas Sharma         | Tea          | 2   | ₹10.00    | ₹20.00    | Card         | Paid   | 2025-09-09 00:00:00
+5        | Manav Reddy          | Burger       | 3   | ₹60.00    | ₹180.00   | Online       | Paid   | 2025-08-22 00:00:00
+4        | Ayaan Ali            | Pizza        | 2   | ₹120.00   | ₹240.00   | Cash         | Paid   | 2025-07-05 00:00:00
+5        | Rahul Pillai         | Sandwich     | 1   | ₹60.00    | ₹60.00    | Online       | Paid   | 2025-11-15 00:00:00
+2        | Amit Naidu           | Coffee       | 5   | ₹20.00    | ₹100.00   | Card         | Paid   | 2025-07-06 00:00:00
+1        | Pranav Ansari        | Burger       | 5   | ₹60.00    | ₹300.00   | Online       | Paid   | 2025-08-09 00:00:00
+4        | Aditya Gowda         | Sandwich     | 3   | ₹60.00    | ₹180.00   | Card         | Paid   | 2025-09-19 00:00:00
+4        | Rahul Pillai         | Sandwich     | 5   | ₹60.00    | ₹300.00   | Cash         | Paid   | 2025-07-12 00:00:00
+4        | Deepak Agrawal       | Pizza        | 3   | ₹120.00   | ₹360.00   | Cash         | Paid   | 2025-09-12 00:00:00
+4        | Shaurya Ali          | Burger       | 3   | ₹60.00    | ₹180.00   | Cash         | Paid   | 2025-08-06 00:00:00
+1        | Kartik Gowda         | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Online       | Paid   | 2025-10-23 00:00:00
+4        | Akash Patil          | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Cash         | Paid   | 2025-07-15 00:00:00
+3        | Suresh Mehta         | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Card         | Paid   | 2025-10-24 00:00:00
+3        | Vihaan Singh         | Coffee       | 2   | ₹20.00    | ₹40.00    | Cash         | Paid   | 2025-12-06 00:00:00
+1        | Pranav Hussain       | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Online       | Paid   | 2025-09-12 00:00:00
+3        | Tanmay Shinde        | Tea          | 4   | ₹10.00    | ₹40.00    | Cash         | Paid   | 2025-10-06 00:00:00
+5        | Abhay Khan           | Burger       | 1   | ₹60.00    | ₹60.00    | Card         | Paid   | 2025-09-29 00:00:00
+5        | Kunal Mishra         | Tea          | 2   | ₹10.00    | ₹20.00    | Online       | Paid   | 2025-10-16 00:00:00
+4        | Suresh Pathan        | Sandwich     | 3   | ₹60.00    | ₹180.00   | Online       | Paid   | 2025-07-02 00:00:00
+1        | Kartik Sheikh        | Sandwich     | 4   | ₹60.00    | ₹240.00   | Card         | Paid   | 2025-08-09 00:00:00
+3        | Ankit Kulkarni       | Tea          | 5   | ₹10.00    | ₹50.00    | Cash         | Paid   | 2025-11-25 00:00:00
+1        | Tanmay Pillai        | Tea          | 2   | ₹10.00    | ₹20.00    | Cash         | Paid   | 2025-07-02 00:00:00
+3        | Sanket Ansari        | Pizza        | 1   | ₹120.00   | ₹120.00   | Cash         | Paid   | 2025-09-12 00:00:00
+3        | Aarav Pathan         | Tea          | 3   | ₹10.00    | ₹30.00    | Cash         | Paid   | 2025-10-12 00:00:00
+3        | Kunal Mehta          | Sandwich     | 1   | ₹60.00    | ₹60.00    | Online       | Paid   | 2025-09-02 00:00:00
+2        | Ankit Pandey         | Sandwich     | 4   | ₹60.00    | ₹240.00   | Cash         | Paid   | 2025-07-17 00:00:00
+4        | Shaurya Reddy        | Cold Drink   | 4   | ₹30.00    | ₹120.00   | Card         | Paid   | 2025-07-05 00:00:00
+3        | Aarav Ali            | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Online       | Paid   | 2025-10-12 00:00:00
+1        | Ankit Deshmukh       | Burger       | 3   | ₹60.00    | ₹180.00   | Card         | Paid   | 2025-09-21 00:00:00
+1        | Deepak Verma         | Pizza        | 1   | ₹120.00   | ₹120.00   | Card         | Paid   | 2025-07-03 00:00:00
+2        | Reyansh Menon        | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Cash         | Paid   | 2025-09-20 00:00:00
+3        | Kunal Ali            | Coffee       | 5   | ₹20.00    | ₹100.00   | Card         | Paid   | 2025-10-29 00:00:00
+4        | Kunal Naik           | Sandwich     | 4   | ₹60.00    | ₹240.00   | Card         | Paid   | 2025-11-19 00:00:00
+3        | Sahil Singh          | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Online       | Paid   | 2025-07-15 00:00:00
+3        | Sarthak Gowda        | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Card         | Paid   | 2025-11-20 00:00:00
+1        | Krishna Pawar        | Sandwich     | 1   | ₹60.00    | ₹60.00    | Cash         | Paid   | 2025-10-21 00:00:00
+1        | Rahul Bhosale        | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Card         | Paid   | 2025-12-09 00:00:00
+4        | Aditya Mishra        | Cold Drink   | 4   | ₹30.00    | ₹120.00   | Card         | Paid   | 2025-08-08 00:00:00
+2        | Mayur Dixit          | Coffee       | 1   | ₹20.00    | ₹20.00    | Cash         | Paid   | 2025-07-01 00:00:00
+3        | Amit Shetty          | Burger       | 2   | ₹60.00    | ₹120.00   | Cash         | Paid   | 2025-08-07 00:00:00
+4        | Manav Iyer           | Coffee       | 4   | ₹20.00    | ₹80.00    | Online       | Paid   | 2025-10-09 00:00:00
+4        | Shaurya Deshmukh     | Tea          | 3   | ₹10.00    | ₹30.00    | Cash         | Paid   | 2025-12-03 00:00:00
+3        | Sunil Sharma         | Tea          | 1   | ₹10.00    | ₹10.00    | Card         | Paid   | 2025-08-28 00:00:00
+1        | Vivaan Gupta         | Tea          | 4   | ₹10.00    | ₹40.00    | Card         | Paid   | 2025-07-12 00:00:00
+1        | Ayaan Tiwari         | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Online       | Paid   | 2025-07-15 00:00:00
+3        | Harsh Yadav          | Burger       | 1   | ₹60.00    | ₹60.00    | Online       | Paid   | 2025-07-08 00:00:00
+2        | Shubham Ansari       | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Card         | Paid   | 2025-09-06 00:00:00
+3        | Reyansh Joshi        | Tea          | 1   | ₹10.00    | ₹10.00    | Cash         | Paid   | 2025-10-24 00:00:00
+1        | Dhruv Naidu          | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Card         | Paid   | 2025-10-29 00:00:00
+2        | Reyansh Sheikh       | Burger       | 4   | ₹60.00    | ₹240.00   | Card         | Paid   | 2025-11-10 00:00:00
+5        | Aditya Dubey         | Burger       | 4   | ₹60.00    | ₹240.00   | Card         | Paid   | 2025-07-28 00:00:00
+2        | Dhruv Singh          | Pizza        | 1   | ₹120.00   | ₹120.00   | Online       | Paid   | 2025-07-20 00:00:00
+5        | Sahil Pandey         | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Online       | Paid   | 2025-07-03 00:00:00
+5        | Abhinav Gore         | Burger       | 3   | ₹60.00    | ₹180.00   | Online       | Paid   | 2025-07-11 00:00:00
+2        | Gaurav Yadav         | Tea          | 2   | ₹10.00    | ₹20.00    | Cash         | Paid   | 2025-07-13 00:00:00
+1        | Suresh Dixit         | Tea          | 5   | ₹10.00    | ₹50.00    | Cash         | Paid   | 2025-10-02 00:00:00
+5        | Rohan Chowdary       | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Online       | Paid   | 2025-08-09 00:00:00
+5        | Dhruv Patil          | Tea          | 5   | ₹10.00    | ₹50.00    | Online       | Paid   | 2025-10-01 00:00:00
+2        | Yash Pawar           | Coffee       | 2   | ₹20.00    | ₹40.00    | Cash         | Paid   | 2025-11-21 00:00:00
+1        | Rohan Malik          | Coffee       | 4   | ₹20.00    | ₹80.00    | Cash         | Paid   | 2025-07-20 00:00:00
+5        | Arjun Hussain        | Pizza        | 3   | ₹120.00   | ₹360.00   | Online       | Paid   | 2025-11-25 00:00:00
+3        | Shaurya Kulkarni     | Tea          | 4   | ₹10.00    | ₹40.00    | Card         | Paid   | 2025-07-23 00:00:00
+5        | Mahesh Jadhav        | Tea          | 5   | ₹10.00    | ₹50.00    | Online       | Paid   | 2025-11-25 00:00:00
+2        | Aarav Gowda          | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Card         | Paid   | 2025-11-14 00:00:00
+4        | Raj Pillai           | Tea          | 1   | ₹10.00    | ₹10.00    | Card         | Paid   | 2025-08-08 00:00:00
+4        | Rohit Iyer           | Burger       | 3   | ₹60.00    | ₹180.00   | Card         | Paid   | 2025-07-01 00:00:00
+3        | Ankit Chowdary       | Tea          | 3   | ₹10.00    | ₹30.00    | Online       | Paid   | 2025-08-23 00:00:00
+3        | Mayur Pathan         | Burger       | 5   | ₹60.00    | ₹300.00   | Online       | Paid   | 2025-08-26 00:00:00
+5        | Rohit Shetty         | Burger       | 4   | ₹60.00    | ₹240.00   | Card         | Paid   | 2025-12-01 00:00:00
+2        | Dhruv Dubey          | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Cash         | Paid   | 2025-12-05 00:00:00
+3        | Aman Bhosale         | Tea          | 3   | ₹10.00    | ₹30.00    | Online       | Paid   | 2025-11-04 00:00:00
+3        | Abhay Mehta          | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Online       | Paid   | 2025-08-13 00:00:00
+5        | Deepak Agrawal       | Pizza        | 3   | ₹120.00   | ₹360.00   | Cash         | Paid   | 2025-07-29 00:00:00
+2        | Piyush Gupta         | Cold Drink   | 4   | ₹30.00    | ₹120.00   | Card         | Paid   | 2025-10-08 00:00:00
+4        | Atharva Pawar        | Pizza        | 1   | ₹120.00   | ₹120.00   | Card         | Paid   | 2025-07-31 00:00:00
+2        | Tejas Nair           | Coffee       | 4   | ₹20.00    | ₹80.00    | Online       | Paid   | 2025-12-07 00:00:00
+5        | Kartik Kale          | Coffee       | 5   | ₹20.00    | ₹100.00   | Cash         | Paid   | 2025-11-12 00:00:00
+1        | Mayur Joshi          | Sandwich     | 2   | ₹60.00    | ₹120.00   | Online       | Paid   | 2025-08-05 00:00:00
+4        | Ritesh Mishra        | Burger       | 5   | ₹60.00    | ₹300.00   | Card         | Paid   | 2025-09-09 00:00:00
+1        | Rohit Chavan         | Burger       | 3   | ₹60.00    | ₹180.00   | Card         | Paid   | 2025-08-16 00:00:00
+2        | Mahesh Malik         | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Cash         | Paid   | 2025-10-24 00:00:00
+5        | Rohit Naidu          | Coffee       | 2   | ₹20.00    | ₹40.00    | Cash         | Paid   | 2025-07-07 00:00:00
+5        | Sunil Shinde         | Pizza        | 2   | ₹120.00   | ₹240.00   | Online       | Paid   | 2025-10-17 00:00:00
+5        | Nitin Kulkarni       | Tea          | 1   | ₹10.00    | ₹10.00    | Cash         | Paid   | 2025-08-04 00:00:00
+4        | Aman Naidu           | Tea          | 4   | ₹10.00    | ₹40.00    | Cash         | Paid   | 2025-10-12 00:00:00
+1        | Pranav Malik         | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Online       | Paid   | 2025-10-26 00:00:00
+2        | Dhruv Gore           | Coffee       | 5   | ₹20.00    | ₹100.00   | Card         | Paid   | 2025-12-08 00:00:00
+2        | Nitin Shetty         | Pizza        | 4   | ₹120.00   | ₹480.00   | Online       | Paid   | 2025-08-18 00:00:00
+5        | Suresh Patil         | Tea          | 4   | ₹10.00    | ₹40.00    | Online       | Paid   | 2025-09-30 00:00:00
+3        | Pranav Pathan        | Pizza        | 3   | ₹120.00   | ₹360.00   | Card         | Paid   | 2025-08-10 00:00:00
+3        | Sahil Gupta          | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Cash         | Paid   | 2025-09-07 00:00:00
+5        | Sarthak Nair         | Tea          | 4   | ₹10.00    | ₹40.00    | Card         | Paid   | 2025-10-08 00:00:00
+1        | Vihaan Iyer          | Sandwich     | 4   | ₹60.00    | ₹240.00   | Card         | Paid   | 2025-10-08 00:00:00
+2        | Atharva Pandey       | Pizza        | 4   | ₹120.00   | ₹480.00   | Card         | Paid   | 2025-08-02 00:00:00
+3        | Kabir Thakur         | Coffee       | 5   | ₹20.00    | ₹100.00   | Card         | Paid   | 2025-10-01 00:00:00
+5        | Atharva Gupta        | Sandwich     | 2   | ₹60.00    | ₹120.00   | Card         | Paid   | 2025-11-02 00:00:00
+1        | Atharva Hussain      | Tea          | 4   | ₹10.00    | ₹40.00    | Online       | Paid   | 2025-11-16 00:00:00
+2        | Ritesh Ansari        | Pizza        | 4   | ₹120.00   | ₹480.00   | Card         | Paid   | 2025-08-09 00:00:00
+2        | Ayaan Chauhan        | Burger       | 2   | ₹60.00    | ₹120.00   | Card         | Paid   | 2025-07-21 00:00:00
+1        | Shubham Pathan       | Coffee       | 4   | ₹20.00    | ₹80.00    | Card         | Paid   | 2025-11-11 00:00:00
+3        | Amit Malik           | Tea          | 1   | ₹10.00    | ₹10.00    | Online       | Paid   | 2025-09-18 00:00:00
+2        | Vihaan Pandey        | Coffee       | 4   | ₹20.00    | ₹80.00    | Cash         | Paid   | 2025-11-24 00:00:00
+5        | Aditya Kale          | Sandwich     | 2   | ₹60.00    | ₹120.00   | Online       | Paid   | 2025-10-15 00:00:00
+4        | Manav Qureshi        | Burger       | 1   | ₹60.00    | ₹60.00    | Card         | Paid   | 2025-07-11 00:00:00
+2        | Kunal Thakur         | Coffee       | 4   | ₹20.00    | ₹80.00    | Card         | Paid   | 2025-08-26 00:00:00
+4        | Mahesh Singh         | Burger       | 1   | ₹60.00    | ₹60.00    | Online       | Paid   | 2025-08-09 00:00:00
+4        | Sahil Pandey         | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Cash         | Paid   | 2025-11-28 00:00:00
+4        | Piyush Pathan        | Coffee       | 2   | ₹20.00    | ₹40.00    | Online       | Paid   | 2025-07-19 00:00:00
+1        | Aarav Nair           | Coffee       | 1   | ₹20.00    | ₹20.00    | Card         | Paid   | 2025-10-28 00:00:00
+5        | Rohan Pathan         | Pizza        | 3   | ₹120.00   | ₹360.00   | Cash         | Paid   | 2025-10-01 00:00:00
+3        | Tanmay Syed          | Burger       | 3   | ₹60.00    | ₹180.00   | Card         | Paid   | 2025-10-18 00:00:00
+1        | Nikhil Chowdary      | Burger       | 2   | ₹60.00    | ₹120.00   | Card         | Paid   | 2025-09-24 00:00:00
+1        | Harsh Joshi          | Burger       | 3   | ₹60.00    | ₹180.00   | Card         | Paid   | 2025-08-17 00:00:00
+3        | Amit Kulkarni        | Tea          | 3   | ₹10.00    | ₹30.00    | Cash         | Paid   | 2025-09-27 00:00:00
+5        | Piyush Deshmukh      | Pizza        | 2   | ₹120.00   | ₹240.00   | Cash         | Paid   | 2025-07-31 00:00:00
+2        | Kabir Patil          | Coffee       | 2   | ₹20.00    | ₹40.00    | Cash         | Paid   | 2025-09-11 00:00:00
+4        | Nikhil Chowdary      | Burger       | 2   | ₹60.00    | ₹120.00   | Online       | Paid   | 2025-09-29 00:00:00
+1        | Vihaan Reddy         | Tea          | 3   | ₹10.00    | ₹30.00    | Card         | Paid   | 2025-08-03 00:00:00
+5        | Arjun Pathan         | Coffee       | 1   | ₹20.00    | ₹20.00    | Card         | Paid   | 2025-10-29 00:00:00
+4        | Sahil Joshi          | Tea          | 5   | ₹10.00    | ₹50.00    | Cash         | Paid   | 2025-10-30 00:00:00
+2        | Ankit Mishra         | Sandwich     | 1   | ₹60.00    | ₹60.00    | Cash         | Paid   | 2025-11-10 00:00:00
+2        | Gaurav Gore          | Tea          | 3   | ₹10.00    | ₹30.00    | Card         | Paid   | 2025-08-15 00:00:00
+4        | Sunil Dubey          | Pizza        | 4   | ₹120.00   | ₹480.00   | Online       | Paid   | 2025-09-19 00:00:00
+1        | Ishaan Pandey        | Sandwich     | 3   | ₹60.00    | ₹180.00   | Online       | Paid   | 2025-12-03 00:00:00
+2        | Aman Gowda           | Burger       | 2   | ₹60.00    | ₹120.00   | Cash         | Paid   | 2025-07-25 00:00:00
+4        | Ankit Mehta          | Coffee       | 1   | ₹20.00    | ₹20.00    | Cash         | Paid   | 2025-10-15 00:00:00
+1        | Abhay Gowda          | Tea          | 5   | ₹10.00    | ₹50.00    | Online       | Paid   | 2025-09-21 00:00:00
+2        | Akash Syed           | Pizza        | 3   | ₹120.00   | ₹360.00   | Online       | Paid   | 2025-12-07 00:00:00
+1        | Shubham Kale         | Pizza        | 4   | ₹120.00   | ₹480.00   | Online       | Paid   | 2025-08-05 00:00:00
+1        | Sanket Singh         | Sandwich     | 3   | ₹60.00    | ₹180.00   | Cash         | Paid   | 2025-12-05 00:00:00
+4        | Tejas Tripathi       | Tea          | 5   | ₹10.00    | ₹50.00    | Card         | Paid   | 2025-11-21 00:00:00
+2        | Harsh Yadav          | Burger       | 1   | ₹60.00    | ₹60.00    | Online       | Paid   | 2025-07-19 00:00:00
+1        | Yash Agrawal         | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Cash         | Paid   | 2025-10-12 00:00:00
+5        | Harsh Chauhan        | Pizza        | 1   | ₹120.00   | ₹120.00   | Card         | Paid   | 2025-07-02 00:00:00
+4        | Rohit Shaikh         | Pizza        | 4   | ₹120.00   | ₹480.00   | Card         | Paid   | 2025-09-30 00:00:00
+2        | Amit Iyer            | Pizza        | 1   | ₹120.00   | ₹120.00   | Cash         | Paid   | 2025-10-23 00:00:00
+5        | Manav Shetty         | Cold Drink   | 4   | ₹30.00    | ₹120.00   | Cash         | Paid   | 2025-08-16 00:00:00
+1        | Vikas Syed           | Sandwich     | 4   | ₹60.00    | ₹240.00   | Card         | Paid   | 2025-09-10 00:00:00
+2        | Kabir Shinde         | Sandwich     | 4   | ₹60.00    | ₹240.00   | Cash         | Paid   | 2025-11-04 00:00:00
+5        | Abhay Naidu          | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Cash         | Paid   | 2025-09-26 00:00:00
+3        | Rohan Ansari         | Burger       | 1   | ₹60.00    | ₹60.00    | Cash         | Paid   | 2025-10-26 00:00:00
+3        | Dhruv Sheikh         | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Online       | Paid   | 2025-10-17 00:00:00
+4        | Abhay Patel          | Sandwich     | 3   | ₹60.00    | ₹180.00   | Cash         | Paid   | 2025-07-18 00:00:00
+1        | Sanket Pawar         | Pizza        | 5   | ₹120.00   | ₹600.00   | Card         | Paid   | 2025-10-09 00:00:00
+5        | Vikas More           | Pizza        | 1   | ₹120.00   | ₹120.00   | Cash         | Paid   | 2025-11-09 00:00:00
+2        | Kabir Chavan         | Tea          | 5   | ₹10.00    | ₹50.00    | Card         | Paid   | 2025-07-30 00:00:00
+1        | Tanmay Dixit         | Sandwich     | 4   | ₹60.00    | ₹240.00   | Cash         | Paid   | 2025-10-27 00:00:00
+5        | Kunal Sheikh         | Sandwich     | 4   | ₹60.00    | ₹240.00   | Cash         | Paid   | 2025-07-26 00:00:00
+4        | Raj Reddy            | Pizza        | 5   | ₹120.00   | ₹600.00   | Card         | Paid   | 2025-10-23 00:00:00
+1        | Reyansh Mishra       | Sandwich     | 3   | ₹60.00    | ₹180.00   | Online       | Paid   | 2025-08-29 00:00:00
+5        | Vihaan Nair          | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Card         | Paid   | 2025-10-27 00:00:00
+2        | Kartik Patel         | Pizza        | 3   | ₹120.00   | ₹360.00   | Online       | Paid   | 2025-09-24 00:00:00
+2        | Dhruv Gupta          | Pizza        | 3   | ₹120.00   | ₹360.00   | Cash         | Paid   | 2025-09-01 00:00:00
+2        | Shubham Shaikh       | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Online       | Paid   | 2025-11-07 00:00:00
+3        | Manav Sharma         | Coffee       | 1   | ₹20.00    | ₹20.00    | Card         | Paid   | 2025-09-30 00:00:00
+5        | Ishaan Rao           | Coffee       | 3   | ₹20.00    | ₹60.00    | Cash         | Paid   | 2025-07-09 00:00:00
+4        | Raj Patel            | Burger       | 5   | ₹60.00    | ₹300.00   | Cash         | Paid   | 2025-07-30 00:00:00
+2        | Mahesh Chowdary      | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Cash         | Paid   | 2025-07-22 00:00:00
+1        | Kabir Reddy          | Sandwich     | 5   | ₹60.00    | ₹300.00   | Card         | Paid   | 2025-07-11 00:00:00
+5        | Shaurya More         | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Online       | Paid   | 2025-10-25 00:00:00
+2        | Dhruv Naik           | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Card         | Paid   | 2025-09-08 00:00:00
+4        | Atharva Rao          | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Cash         | Paid   | 2025-08-18 00:00:00
+3        | Raj Patil            | Coffee       | 3   | ₹20.00    | ₹60.00    | Cash         | Paid   | 2025-09-09 00:00:00
+4        | Dhruv Gupta          | Pizza        | 3   | ₹120.00   | ₹360.00   | Online       | Paid   | 2025-08-13 00:00:00
+3        | Krishna Chowdary     | Burger       | 5   | ₹60.00    | ₹300.00   | Cash         | Paid   | 2025-09-03 00:00:00
+1        | Sunil Pathan         | Pizza        | 3   | ₹120.00   | ₹360.00   | Cash         | Paid   | 2025-11-08 00:00:00
+5        | Ishaan Mehta         | Coffee       | 4   | ₹20.00    | ₹80.00    | Online       | Paid   | 2025-11-03 00:00:00
+4        | Rohit Pandey         | Pizza        | 3   | ₹120.00   | ₹360.00   | Online       | Paid   | 2025-09-27 00:00:00
+4        | Ritesh Pandey        | Pizza        | 1   | ₹120.00   | ₹120.00   | Card         | Paid   | 2025-07-03 00:00:00
+4        | Tejas Agrawal        | Cold Drink   | 5   | ₹30.00    | ₹150.00   | Online       | Paid   | 2025-09-20 00:00:00
+4        | Kabir Gowda          | Coffee       | 3   | ₹20.00    | ₹60.00    | Card         | Paid   | 2025-11-13 00:00:00
+5        | Kabir Mishra         | Burger       | 3   | ₹60.00    | ₹180.00   | Cash         | Paid   | 2025-07-28 00:00:00
+1        | Kunal Chowdary       | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Card         | Paid   | 2025-08-15 00:00:00
+5        | Ishaan Mishra        | Sandwich     | 1   | ₹60.00    | ₹60.00    | Online       | Paid   | 2025-10-09 00:00:00
+4        | Reyansh Patil        | Pizza        | 2   | ₹120.00   | ₹240.00   | Online       | Paid   | 2025-11-16 00:00:00
+2        | Tejas Menon          | Coffee       | 4   | ₹20.00    | ₹80.00    | Card         | Paid   | 2025-07-14 00:00:00
+5        | Swapnil Gore         | Sandwich     | 5   | ₹60.00    | ₹300.00   | Online       | Paid   | 2025-09-20 00:00:00
+3        | Nitin Qureshi        | Cold Drink   | 4   | ₹30.00    | ₹120.00   | Cash         | Paid   | 2025-11-09 00:00:00
+1        | Krishna Agrawal      | Pizza        | 4   | ₹120.00   | ₹480.00   | Card         | Paid   | 2025-09-09 00:00:00
+5        | Deepak Malik         | Tea          | 5   | ₹10.00    | ₹50.00    | Card         | Paid   | 2025-11-11 00:00:00
+2        | Mahesh Verma         | Tea          | 5   | ₹10.00    | ₹50.00    | Card         | Paid   | 2025-11-04 00:00:00
+4        | Rahul Gore           | Tea          | 5   | ₹10.00    | ₹50.00    | Card         | Paid   | 2025-07-03 00:00:00
+2        | Nitin Naidu          | Tea          | 2   | ₹10.00    | ₹20.00    | Cash         | Paid   | 2025-09-15 00:00:00
+3        | Suresh Patel         | Sandwich     | 3   | ₹60.00    | ₹180.00   | Card         | Paid   | 2025-11-17 00:00:00
+5        | Swapnil Malik        | Sandwich     | 4   | ₹60.00    | ₹240.00   | Cash         | Paid   | 2025-09-03 00:00:00
+3        | Rohan Menon          | Burger       | 3   | ₹60.00    | ₹180.00   | Cash         | Paid   | 2025-12-04 00:00:00
+3        | Rohan Patel          | Pizza        | 4   | ₹120.00   | ₹480.00   | Card         | Paid   | 2025-07-22 00:00:00
+2        | Ishaan Naidu         | Coffee       | 1   | ₹20.00    | ₹20.00    | Card         | Paid   | 2025-09-01 00:00:00
+1        | Akash Chowdary       | Pizza        | 3   | ₹120.00   | ₹360.00   | Cash         | Paid   | 2025-08-21 00:00:00
+4        | Vihaan Yadav         | Burger       | 3   | ₹60.00    | ₹180.00   | Card         | Paid   | 2025-11-15 00:00:00
+2        | Suresh Patil         | Tea          | 3   | ₹10.00    | ₹30.00    | Card         | Paid   | 2025-11-06 00:00:00
+5        | Dhruv Agrawal        | Burger       | 3   | ₹60.00    | ₹180.00   | Cash         | Paid   | 2025-08-19 00:00:00
+5        | Sanket Mishra        | Pizza        | 4   | ₹120.00   | ₹480.00   | Card         | Paid   | 2025-10-15 00:00:00
+2        | Shubham Qureshi      | Tea          | 1   | ₹10.00    | ₹10.00    | Online       | Paid   | 2025-07-06 00:00:00
+4        | Arjun Dubey          | Tea          | 5   | ₹10.00    | ₹50.00    | Online       | Paid   | 2025-09-29 00:00:00
+4        | Om Naidu             | Pizza        | 2   | ₹120.00   | ₹240.00   | Online       | Paid   | 2025-07-19 00:00:00
+4        | Ishaan Sheikh        | Tea          | 4   | ₹10.00    | ₹40.00    | Online       | Paid   | 2025-07-31 00:00:00
+2        | Pranav Dixit         | Coffee       | 1   | ₹20.00    | ₹20.00    | Online       | Paid   | 2025-08-10 00:00:00
+1        | Aditya Sheikh        | Pizza        | 4   | ₹120.00   | ₹480.00   | Card         | Paid   | 2025-11-30 00:00:00
+2        | Pranav Patil         | Coffee       | 5   | ₹20.00    | ₹100.00   | Cash         | Paid   | 2025-07-21 00:00:00
+1        | Mayur Pawar          | Tea          | 1   | ₹10.00    | ₹10.00    | Card         | Paid   | 2025-12-05 00:00:00
+3        | Vishal Naidu         | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Card         | Paid   | 2025-11-04 00:00:00
+1        | Suresh Shinde        | Sandwich     | 5   | ₹60.00    | ₹300.00   | Cash         | Paid   | 2025-11-01 00:00:00
+3        | Vishal Naik          | Sandwich     | 5   | ₹60.00    | ₹300.00   | Online       | Paid   | 2025-08-20 00:00:00
+3        | Om Kale              | Sandwich     | 5   | ₹60.00    | ₹300.00   | Card         | Paid   | 2025-10-31 00:00:00
+2        | Vivaan Kale          | Sandwich     | 4   | ₹60.00    | ₹240.00   | Online       | Paid   | 2025-10-29 00:00:00
+4        | Deepak Dixit         | Burger       | 1   | ₹60.00    | ₹60.00    | Card         | Paid   | 2025-08-29 00:00:00
+3        | Siddharth Rao        | Burger       | 1   | ₹60.00    | ₹60.00    | Card         | Paid   | 2025-08-05 00:00:00
+5        | Reyansh Sheikh       | Tea          | 2   | ₹10.00    | ₹20.00    | Online       | Paid   | 2025-08-06 00:00:00
+2        | Krishna Qureshi      | Coffee       | 5   | ₹20.00    | ₹100.00   | Cash         | Paid   | 2025-10-19 00:00:00
+3        | Yash Agrawal         | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Cash         | Paid   | 2025-07-20 00:00:00
+4        | Manav Tiwari         | Burger       | 2   | ₹60.00    | ₹120.00   | Card         | Paid   | 2025-09-10 00:00:00
+4        | Vishal Qureshi       | Pizza        | 2   | ₹120.00   | ₹240.00   | Cash         | Paid   | 2025-10-10 00:00:00
+3        | Krishna Chauhan      | Burger       | 2   | ₹60.00    | ₹120.00   | Card         | Paid   | 2025-11-28 00:00:00
+3        | Abhinav Qureshi      | Tea          | 2   | ₹10.00    | ₹20.00    | Card         | Pending | 2025-10-26 00:00:00
+1        | Vikas Tiwari         | Pizza        | 4   | ₹120.00   | ₹480.00   | Cash         | Pending | 2025-10-09 00:00:00
+4        | Vishal Dixit         | Tea          | 4   | ₹10.00    | ₹40.00    | Cash         | Pending | 2025-10-21 00:00:00
+4        | Sahil Jadhav         | Cold Drink   | 3   | ₹30.00    | ₹90.00    | Card         | Pending | 2025-09-29 00:00:00
+2        | Harsh Dubey          | Tea          | 3   | ₹10.00    | ₹30.00    | Cash         | Pending | 2025-10-15 00:00:00
+2        | Rohan Shaikh         | Tea          | 3   | ₹10.00    | ₹30.00    | Cash         | Pending | 2025-11-25 00:00:00
+1        | Rahul Dubey          | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Card         | Pending | 2025-11-29 00:00:00
+2        | Siddharth Pathan     | Tea          | 1   | ₹10.00    | ₹10.00    | Cash         | Pending | 2025-08-06 00:00:00
+3        | Krishna Sharma       | Pizza        | 1   | ₹120.00   | ₹120.00   | Card         | Pending | 2025-08-28 00:00:00
+2        | Nitin Reddy          | Coffee       | 2   | ₹20.00    | ₹40.00    | Online       | Pending | 2025-11-30 00:00:00
+1        | Aman Chauhan         | Burger       | 4   | ₹60.00    | ₹240.00   | Cash         | Pending | 2025-10-10 00:00:00
+4        | Abhinav Singh        | Coffee       | 2   | ₹20.00    | ₹40.00    | Online       | Pending | 2025-08-27 00:00:00
+1        | Manav Dixit          | Cold Drink   | 4   | ₹30.00    | ₹120.00   | Online       | Pending | 2025-09-03 00:00:00
+3        | Dhruv Syed           | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Online       | Pending | 2025-11-05 00:00:00
+3        | Nikhil Chauhan       | Pizza        | 5   | ₹120.00   | ₹600.00   | Online       | Pending | 2025-09-30 00:00:00
+2        | Rohit Verma          | Pizza        | 3   | ₹120.00   | ₹360.00   | Card         | Pending | 2025-08-26 00:00:00
+5        | Abhinav Dixit        | Sandwich     | 2   | ₹60.00    | ₹120.00   | Cash         | Pending | 2025-07-20 00:00:00
+2        | Piyush Patil         | Pizza        | 2   | ₹120.00   | ₹240.00   | Online       | Pending | 2025-07-11 00:00:00
+1        | Swapnil Pillai       | Tea          | 5   | ₹10.00    | ₹50.00    | Online       | Pending | 2025-11-07 00:00:00
+1        | Pranav Mishra        | Burger       | 3   | ₹60.00    | ₹180.00   | Cash         | Pending | 2025-09-15 00:00:00
+1        | Manav Kulkarni       | Sandwich     | 4   | ₹60.00    | ₹240.00   | Online       | Pending | 2025-11-14 00:00:00
+4        | Atharva Ali          | Burger       | 2   | ₹60.00    | ₹120.00   | Card         | Pending | 2025-10-11 00:00:00
+2        | Abhinav Jadhav       | Cold Drink   | 2   | ₹30.00    | ₹60.00    | Cash         | Pending | 2025-11-12 00:00:00
+2        | Aarav Kulkarni       | Sandwich     | 2   | ₹60.00    | ₹120.00   | Card         | Pending | 2025-07-28 00:00:00
+2        | Aman Kulkarni        | Burger       | 3   | ₹60.00    | ₹180.00   | Online       | Pending | 2025-10-12 00:00:00
+1        | Ishaan Ali           | Burger       | 1   | ₹60.00    | ₹60.00    | Card         | Pending | 2025-10-14 00:00:00
+2        | Ishaan Chavan        | Pizza        | 5   | ₹120.00   | ₹600.00   | Online       | Pending | 2025-12-05 00:00:00
+3        | Om Dixit             | Cold Drink   | 1   | ₹30.00    | ₹30.00    | Online       | Pending | 2025-11-23 00:00:00
+4        | Tanmay Patel         | Tea          | 2   | ₹10.00    | ₹20.00    | Cash         | Pending | 2025-10-07 00:00:00
+2        | Vivaan Gupta         | Coffee       | 3   | ₹20.00    | ₹60.00    | Cash         | Pending | 2025-08-04 00:00:00
+2        | sarvesh ingle        | Tea          | 2   | ₹10.00    | ₹20.00    | Cash         | Paid   | 2025-12-18 22:21:32
+3        | sarvesh ingle        | Tea          | 2   | ₹10.00    | ₹20.00    | Cash         | Paid   | 2025-12-18 22:24:52
+4        | sarvesh ingle        | Coffee       | 1   | ₹20.00    | ₹20.00    | Cash         | Paid   | 2025-12-18 22:28:29
+2        | sanchit ingle        | Pizza        | 1   | ₹120.00   | ₹120.00   | Online       | Paid   | 2025-12-18 22:29:18
+2        | Ritesh Bochare       | Pizza        | 2   | ₹120      | ₹240      | Cash         | Paid   | 2025-12-20 19:47:10
+1        | Om Girhe             | Sandwich     | 3   | ₹60       | ₹180      | Online       | Paid   | 2025-12-20 19:50:08
+5        | Shailesh Girhe       | Coffee       | 1   | ₹20       | ₹20       | Cash         | Paid   | 2025-12-20 19:50:42
+3        | Aditya Patil         | Tea          | 5   | ₹10       | ₹50       | Online       | Paid   | 2025-12-20 19:51:51
+6        | Om Girhe             | Pizza        | 3   | ₹120      | ₹360      | Online       | Paid   | 2025-12-20 20:04:46
+6        | Sarvesh Ingle        | Burger       | 13  | ₹60       | ₹780      | Card         | Paid   | 2025-12-20 20:06:09
+6        | Anil Patil           | Tea          | 8   | ₹10       | ₹80       | Cash         | Paid   | 2025-12-20 20:06:41
+6        | Sanchit Ingle        | Pizza        | 9   | ₹120      | ₹1080     | Online       | Paid   | 2025-12-20 20:07:05
+6        | Aditya Girhe         | Sandwich     | 7   | ₹60       | ₹420      | Cash         | Paid   | 2025-12-20 20:07:46
+6        | Abhi Tayade          | Coffee       | 2   | ₹20       | ₹40       | Online       | Paid    | 2025-12-20 20:19:21
+6        | Sahil Yadav          | Cold Drink   | 5   | ₹30       | ₹150      | Card         | Paid    | 2025-12-20 20:23:57
+3        | Rahul Sharma         | Coffee       | 3   | ₹20       | ₹60       | Card         | Paid    | 2025-12-20 20:24:43
+6        | Amit Sharma          | Tea          | 3   | ₹10       | ₹30       | Cash         | Paid    | 2025-12-20 22:32:16
+3        | Rahul Patil          | Pizza        | 2   | ₹120      | ₹240      | Card         | Paid    | 2025-12-20 22:32:51
+2        | Saurabh Deshmukh     | Coffee       | 4   | ₹20       | ₹80       | Online       | Paid    | 2025-12-20 22:33:19
+6        | Rohit Pawar          | Sandwich     | 3   | ₹60       | ₹180      | Card         | Paid    | 2025-12-20 22:33:41
+6        | Nikhil Kale          | Burger       | 5   | ₹60       | ₹300      | Cash         | Paid    | 2025-12-20 22:33:59
+6        | Akash Jadhav         | Tea          | 1   | ₹10       | ₹10       | Cash         | Paid    | 2025-12-20 22:34:16
+6        | Vikas Shinde         | Coffee       | 2   | ₹20       | ₹40       | Online       | Paid    | 2025-12-20 22:34:31
+4        | Akash Jadhav         | Pizza        | 1   | ₹120      | ₹120      | Cash         | Paid    | 2025-12-20 22:37:51
+6        | Saurabh Deshmukh     | Cold Drink   | 1   | ₹30       | ₹30       | Cash         | Paid    | 2025-12-20 22:38:46
+6	     | Aditya Sharma	    | Sandwich     | 1   | ₹60  	 | ₹60       | Cash	        | Paid    | 2025-12-20 22:47:023        
+3        | Sarvesh Ingle        | Tea          | 2   | ₹10       | ₹20       | Online       | Paid    | 2025-12-20 22:50:14
+6        | Om Girhe             | Coffee       | 2   | ₹20       | ₹40       | Cash         | Paid    | 2025-12-20 22:51:28
+6        | Sanchit Joshi        | Coffee       | 3   | ₹20       | ₹60       | Cash         | Paid    | 2025-12-20 23:07:55
+5        | aakanksha            | Pizza        | 3   | ₹120      | ₹360      | Card         | Paid    | 2025-12-23 13:52:13
+3        | Om Girhe             | Tea          | 2   | ₹10       | ₹20       | Cash         | Paid    | 2025-12-24 16:32:17
+4        | Om Girhe             | Coffee       | 1   | ₹20       | ₹20       | Cash         | Paid    | 2025-12-24 16:47:50
+6        | Vaishnavi Patil      | Pizza        | 2   | ₹120      | ₹240      | Online       | Paid    | 2025-12-24 16:48:41
